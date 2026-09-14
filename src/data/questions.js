@@ -4,7 +4,7 @@ export const subjects=[
 {id:'math',name:'數學',icon:'數',color:'#315b8a',description:'負數、數線、相反數與絕對值'},
 {id:'social',name:'社會',icon:'社',color:'#9a6235',description:'地理與歷史的概念、圖表及資料判讀'},
 {id:'science',name:'自然',icon:'自',color:'#397358',description:'科學方法、生命現象、細胞與顯微鏡'},
-{id:'english',name:'英文',icon:'英',color:'#8b4a68',description:'教材尚未提供，入口預留'}]
+{id:'english',name:'英文',icon:'英',color:'#8b4a68',description:'Starter Unit、人物家庭、文法、位置與閱讀',}]
 export const questions=[
 q('C101','chinese','國文','第一課 夏夜','基礎','〈夏夜〉主要採用哪一種視角觀察自然景物？',['科學研究者','兒童純真且富想像力','歷史記錄者','新聞記者'],1,'本課以兒童般的觀察與想像描寫夏夜。'),
 q('C102','chinese','國文','第一課 夏夜','基礎','夏夜景物的氣氛大致如何變化？',['由寧靜轉緊張','由悲傷轉歡樂','由活潑熱鬧逐漸轉安靜','由明亮轉喧鬧'],2,'詩中前段較活潑，後段逐漸寫到萬物入睡。'),
